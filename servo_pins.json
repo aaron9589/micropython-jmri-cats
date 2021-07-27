@@ -1,0 +1,4 @@
+{
+    "BER-28A": {"pin" : 19, "Normal": 100, "Reverse": 110, "state": "CLOSED", "speed": 30},
+    "BER-29A": {"pin" : 18, "Normal": 100, "Reverse": 110, "state": "CLOSED", "speed": 30}
+}

@@ -1,0 +1,13 @@
+{
+    "BER-44.6-0-R": { "address": 7, "state": "CLOSED" },
+    "BER-44.6-0-Y": { "address": 6, "state": "CLOSED" },
+    "BER-44.6-0-G": { "address": 5, "state": "CLOSED" },
+    "BER-44.6-1-R": { "address": 4, "state": "CLOSED" },
+    "BER-44.6-1-Y": { "address": 3, "state": "CLOSED" },
+    "BER-44.6-2-L": { "address": 2, "state": "CLOSED" },
+    "BER-44.6-2-Y": { "address": 1, "state": "CLOSED" },
+    "BER-44.6-2-O": { "address": 0, "state": "CLOSED" },
+    "BER-44.4-0-R": { "address": 2, "state": "CLOSED" },
+    "BER-44.4-0-Y": { "address": 1, "state": "CLOSED" },
+    "BER-44.4-0-G": { "address": 0, "state": "CLOSED" }
+}
